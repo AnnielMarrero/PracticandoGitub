@@ -1,3 +1,5 @@
 this is my file 2
 
 BasicCalss
+
+changes on file 2
